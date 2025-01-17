@@ -4,7 +4,7 @@ from ques_genera import generate_specific_questions
 
 def main():
     # Define file paths and role
-    resume_path = "C:\\Users\\ASUS\\Desktop\\final_AI\\shoib.cv.pdf"  # Path to your resume PDF
+    resume_path = "C:\\Users\\ASUS\\Desktop\\final_AI\\abh.cv.pdf"  # Path to your resume PDF
     json_filename = "transcription.json"
     role = "Data Scientist"
     
